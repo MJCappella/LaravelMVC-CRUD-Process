@@ -5,3 +5,4 @@
 <h2>Why Laravel?</h2>
 <p>Laravel is a powerful PHP Framework that is widely used in web development especially in the development of integrated management systems. It has widely been adopted by many developers around the world for its cleaner and simple syntax. Not forgetting that Laravel is a fully fledged MVC Architecture i.e It includes Models, Views and controllers.<p>
 <p>The picture below shows a basic flow of processes in Laravel:</p>
+<img src="/public/laravelmvc.png">
