@@ -13,12 +13,12 @@ class CreateProductsTable extends Migration
      */
     public function up()
     {
-        Schema::create('products', function (Blueprint $table) {
+        Schema::create('products', function (Blueprint $table) {f
             $table->id();
             $table->string('productname');
             $table->integer('productquantity');
             $table->decimal('productprice');
-            $table->string('productdescription');
+            $table->text('productdescription')->nullable();
             $table->timestamps();
         });
     }
