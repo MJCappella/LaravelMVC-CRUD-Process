@@ -26,7 +26,8 @@ class ProductController extends Controller
     {
         return view('products.delete');
     }
-
+    
+//storage function
     public function store(Request $request)
     {
         $data = $request -> validate(
