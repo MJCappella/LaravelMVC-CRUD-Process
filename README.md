@@ -10,7 +10,7 @@
 <p>
     <h6>The CRUD Process:</h6>
     <ul>
-    <li>Create</li>
+    <li>Create - Involves addition of new information.</li>
     <li>Read</li>
     <li>Update</li>
     <li>Delete</li>
