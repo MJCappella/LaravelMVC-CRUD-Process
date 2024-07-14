@@ -13,6 +13,6 @@
     <li>Create - Involves addition of new information.</li>
     <li>Read - Retrieval of information</li>
     <li>Update - Editing existing information</li>
-    <li>Delete</li>
+    <li>Delete - Retrieval of existent information</li>
     </ul>
 </p>
