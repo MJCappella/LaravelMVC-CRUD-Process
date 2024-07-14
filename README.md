@@ -8,7 +8,7 @@
 <img src="/public/laravelmvc.png">
 
 <p>
-    <h6>CRUD:</h6>
+    <h6>The CRUD Process:</h6>
     <ul>
     <li>Create</li>
     <li>Read</li>
